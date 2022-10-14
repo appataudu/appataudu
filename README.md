@@ -1,7 +1,5 @@
 <p align="center">  
-![rain-animr](https://user-images.githubusercontent.com/115524315/195826831-2188a70e-4645-4c91-ac3b-f1263fd5e321.gif)
-
-
+<img src="https://cdn.discordapp.com/attachments/1019648418488012914/1030428575934992445/rain-animr.gif">
   
 </p>
 <p align="center">
